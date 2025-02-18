@@ -1,4 +1,4 @@
-# AttritionHR
+# HR Analytics
 The primary objective of this project is to develop a machine learning model that predicts employee attrition using various employee
 characteristics and work-related features. The task involves using supervised learning techniques, with a focus on classification, to predict
 whether an employee will leave the company (Attrition: Yes/No) based on a set of factors like job satisfaction, age, education, work-life
